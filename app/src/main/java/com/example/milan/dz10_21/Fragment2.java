@@ -1,5 +1,4 @@
-package com.example.nikola.dz10_21;
-
+package com.example.milan.dz10_21;
 import android.content.Context;
 import android.net.Uri;
 import android.os.Bundle;
