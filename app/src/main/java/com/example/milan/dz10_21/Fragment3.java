@@ -1,5 +1,4 @@
-package com.example.nikola.dz10_21;
-
+package com.example.milan.dz10_21;
 import java.io.IOException;
 import java.net.InetAddress;
 import java.net.Socket;
